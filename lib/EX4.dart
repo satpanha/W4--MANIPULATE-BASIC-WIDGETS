@@ -30,12 +30,12 @@ class HomePage extends StatelessWidget{
             CustomCard(
               title: 'OOP', 
               background: Color(0xFF90CAF9),
-              color: Color.fromARGB(255, 169, 194, 236)
+              color: Color.fromARGB(255, 255, 255, 255)
             ),
             CustomCard(
               title: 'DART', 
-              background: Color(0xFF64B5F6),
-              color: Color.fromARGB(255, 84, 170, 240),
+              background: Colors.blue,
+              color: Color.fromARGB(255, 255, 255, 255),
             ),
             GradientCard(title: 'FLUTTER')
           ],
@@ -96,10 +96,10 @@ const GradientCard({super.key, required this.title});
         borderRadius: BorderRadius.circular(20),
         gradient: LinearGradient(
           colors: [
-            Colors.blue[100]!,
             Colors.blue[300]!,
             Colors.blue[600]!,
             Colors.blue[900]!,
+            const Color.fromARGB(255, 1, 36, 88),
           ],
         )
       ),
