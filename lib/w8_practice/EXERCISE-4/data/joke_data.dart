@@ -1,0 +1,30 @@
+import 'package:hello_cadt/w8_practice/EXERCISE-4/model/joke.dart';
+
+// AI generation
+List<Joke> jokes = [
+  Joke(title: "Why don't scientists trust atoms?", description: "Because they make up everything!"),
+  Joke(title: "I told my wife she was drawing her eyebrows too high.", description: "She looked surprised."),
+  Joke(title: "Why don't eggs tell jokes?", description: "They'd crack each other up!"),
+  Joke(title: "I'm reading a book on anti-gravity.", description: "It's impossible to put down!"),
+  Joke(title: "Why don’t skeletons fight each other?", description: "They don’t have the guts."),
+  Joke(title: "What do you call fake spaghetti?", description: "An impasta!"),
+  Joke(title: "Why did the scarecrow win an award?", description: "He was outstanding in his field!"),
+  Joke(title: "How does a penguin build its house?", description: "Igloos it together."),
+  Joke(title: "Why don't programmers like nature?", description: "It has too many bugs."),
+  Joke(title: "Want to hear a joke about construction?", description: "I'm still working on it."),
+  Joke(title: "Why don't some couples go to the gym?", description: "Because some relationships don't work out!"),
+  Joke(title: "What do you call a dinosaur that crashes his car?", description: "Tyrannosaurus Wrecks!"),
+  Joke(title: "I'm terrified of elevators...", description: "So I'm going to start taking steps to avoid them."),
+  Joke(title: "Why don’t crabs give to charity?", description: "Because they’re shellfish."),
+  Joke(title: "What did one wall say to the other?", description: "I'll meet you at the corner!"),
+  Joke(title: "Why can’t you give Elsa a balloon?", description: "Because she’ll let it go!"),
+  Joke(title: "How do you organize a space party?", description: "You planet!"),
+  Joke(title: "Why don't skeletons go trick or treating?", description: "They have no body to go with."),
+  Joke(title: "What do you call cheese that isn't yours?", description: "Nacho cheese!"),
+  Joke(title: "Why don’t programmers prefer dark mode?", description: "Because light attracts bugs."),
+  Joke(title: "I only know 25 letters of the alphabet...", description: "I don't know y."),
+  Joke(title: "Why do ducks have tails?", description: "To cover their butt quacks!"),
+  Joke(title: "What did the ocean say to the beach?", description: "Nothing, it just waved."),
+  Joke(title: "Why don’t eggs tell secrets?", description: "They might crack up!"),
+  Joke(title: "Best joke ever", description: "This one will be your favorite one!"),
+];
