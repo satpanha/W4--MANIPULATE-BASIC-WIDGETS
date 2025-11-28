@@ -1,4 +1,3 @@
-// lib/ui/screens/favorite_jokes_screen.dart
 import 'package:flutter/material.dart';
 import '../../data/joke_data.dart';
 import '../../model/joke.dart';
